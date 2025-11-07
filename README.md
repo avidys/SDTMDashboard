@@ -1,0 +1,2 @@
+# SDTMDashboard
+tauri + svelte approach

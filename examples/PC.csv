@@ -1,0 +1,860 @@
+"STUDYID","DOMAIN","USUBJID","PCSEQ","PCTESTCD","PCTEST","PCORRES","PCORRESU","PCSTRESC","PCSTRESN","PCSTRESU","PCSPEC","PCLLOQ","PCULOQ","VISITNUM","VISIT","EPOCH","PCDY","PCTPT","PCTPTNUM"
+"FLE-016","PC","FLE-016-002-004",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-004",2,"FCN","Flecainide","81","ng/mL","81",81,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-004",3,"FCN","Flecainide","150","ng/mL","150",150,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 8 min",-25
+"FLE-016","PC","FLE-016-002-004",4,"FCN","Flecainide","114","ng/mL","114",114,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-004",5,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-004",6,"FCN","Flecainide","106","ng/mL","106",106,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-004",7,"FCN","Flecainide","115","ng/mL","115",115,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-004",8,"FCN","Flecainide","110","ng/mL","110",110,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-004",9,"FCN","Flecainide","109","ng/mL","109",109,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-004",10,"FCN","Flecainide","113","ng/mL","113",113,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-004",11,"FCN","Flecainide","114","ng/mL","114",114,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-004",12,"FCN","Flecainide","106","ng/mL","106",106,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-004",13,"FCN","Flecainide","112","ng/mL","112",112,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-004",14,"FCN","Flecainide","97.2","ng/mL","97.2",97.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-004",15,"FCN","Flecainide","76.3","ng/mL","76.3",76.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-004",16,"FCN","Flecainide","53.6","ng/mL","53.6",53.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-004",17,"FCN","Flecainide","26.7","ng/mL","26.7",26.7,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-005",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-005",2,"FCN","Flecainide","58.2","ng/mL","58.2",58.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-005",3,"FCN","Flecainide","52.5","ng/mL","52.5",52.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-005",4,"FCN","Flecainide","65.5","ng/mL","65.5",65.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-005",5,"FCN","Flecainide","44.3","ng/mL","44.3",44.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-005",6,"FCN","Flecainide","33.9","ng/mL","33.9",33.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-005",7,"FCN","Flecainide","35.7","ng/mL","35.7",35.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-005",8,"FCN","Flecainide","25.7","ng/mL","25.7",25.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-005",9,"FCN","Flecainide","36.2","ng/mL","36.2",36.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-005",10,"FCN","Flecainide","73.1","ng/mL","73.1",73.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-005",11,"FCN","Flecainide","63.6","ng/mL","63.6",63.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-005",12,"FCN","Flecainide","61.7","ng/mL","61.7",61.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-005",13,"FCN","Flecainide","65.9","ng/mL","65.9",65.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-005",14,"FCN","Flecainide","49","ng/mL","49",49,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-005",15,"FCN","Flecainide","40","ng/mL","40",40,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-005",16,"FCN","Flecainide","22.7","ng/mL","22.7",22.7,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-011",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-011",2,"FCN","Flecainide","11.2","ng/mL","11.2",11.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-011",3,"FCN","Flecainide","25.2","ng/mL","25.2",25.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-011",4,"FCN","Flecainide","23.8","ng/mL","23.8",23.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-011",5,"FCN","Flecainide","18.7","ng/mL","18.7",18.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-011",6,"FCN","Flecainide","18.7","ng/mL","18.7",18.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-011",7,"FCN","Flecainide","16.9","ng/mL","16.9",16.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-011",8,"FCN","Flecainide","14.4","ng/mL","14.4",14.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-011",9,"FCN","Flecainide","18.1","ng/mL","18.1",18.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-011",10,"FCN","Flecainide","18.5","ng/mL","18.5",18.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-011",11,"FCN","Flecainide","16.4","ng/mL","16.4",16.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-011",12,"FCN","Flecainide","18.8","ng/mL","18.8",18.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-011",13,"FCN","Flecainide","16.8","ng/mL","16.8",16.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-011",14,"FCN","Flecainide","14.6","ng/mL","14.6",14.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-011",15,"FCN","Flecainide","8.25","ng/mL","8.25",8.25,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-011",16,"FCN","Flecainide","3.64","ng/mL","3.64",3.64,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-026",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-026",2,"FCN","Flecainide","56","ng/mL","56",56,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-026",3,"FCN","Flecainide","63.7","ng/mL","63.7",63.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-026",4,"FCN","Flecainide","64.7","ng/mL","64.7",64.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-026",5,"FCN","Flecainide","36.4","ng/mL","36.4",36.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-026",6,"FCN","Flecainide","48.4","ng/mL","48.4",48.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-026",7,"FCN","Flecainide","42.4","ng/mL","42.4",42.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-026",8,"FCN","Flecainide","45.8","ng/mL","45.8",45.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-026",9,"FCN","Flecainide","48.2","ng/mL","48.2",48.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-026",10,"FCN","Flecainide","87.5","ng/mL","87.5",87.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-026",11,"FCN","Flecainide","69.5","ng/mL","69.5",69.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-026",12,"FCN","Flecainide","78.1","ng/mL","78.1",78.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-026",13,"FCN","Flecainide","59.5","ng/mL","59.5",59.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-026",14,"FCN","Flecainide","68.1","ng/mL","68.1",68.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-026",15,"FCN","Flecainide","44.5","ng/mL","44.5",44.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-026",16,"FCN","Flecainide","17.6","ng/mL","17.6",17.6,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-030",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-030",2,"FCN","Flecainide","101","ng/mL","101",101,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-030",3,"FCN","Flecainide","85","ng/mL","85",85,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-030",4,"FCN","Flecainide","67.4","ng/mL","67.4",67.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-030",5,"FCN","Flecainide","68.2","ng/mL","68.2",68.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-030",6,"FCN","Flecainide","72.4","ng/mL","72.4",72.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-030",7,"FCN","Flecainide","58.9","ng/mL","58.9",58.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-030",8,"FCN","Flecainide","72.8","ng/mL","72.8",72.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-030",9,"FCN","Flecainide","59.1","ng/mL","59.1",59.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-030",10,"FCN","Flecainide","89.9","ng/mL","89.9",89.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-030",11,"FCN","Flecainide","75.9","ng/mL","75.9",75.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-030",12,"FCN","Flecainide","79.5","ng/mL","79.5",79.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-030",13,"FCN","Flecainide","89.3","ng/mL","89.3",89.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-030",14,"FCN","Flecainide","84.9","ng/mL","84.9",84.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-030",15,"FCN","Flecainide","53.5","ng/mL","53.5",53.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-030",16,"FCN","Flecainide","38.2","ng/mL","38.2",38.2,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-031",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-031",2,"FCN","Flecainide","213","ng/mL","213",213,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-031",3,"FCN","Flecainide","240","ng/mL","240",240,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-031",4,"FCN","Flecainide","187","ng/mL","187",187,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-031",5,"FCN","Flecainide","150","ng/mL","150",150,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-031",6,"FCN","Flecainide","105","ng/mL","105",105,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-031",7,"FCN","Flecainide","79.4","ng/mL","79.4",79.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-031",8,"FCN","Flecainide","65.4","ng/mL","65.4",65.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-031",9,"FCN","Flecainide","64.7","ng/mL","64.7",64.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-031",10,"FCN","Flecainide","66.7","ng/mL","66.7",66.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-031",11,"FCN","Flecainide","70.6","ng/mL","70.6",70.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-031",12,"FCN","Flecainide","71.6","ng/mL","71.6",71.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-031",13,"FCN","Flecainide","82.4","ng/mL","82.4",82.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-031",14,"FCN","Flecainide","80.8","ng/mL","80.8",80.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-031",15,"FCN","Flecainide","59.8","ng/mL","59.8",59.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-031",16,"FCN","Flecainide","34.2","ng/mL","34.2",34.2,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-036",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-036",2,"FCN","Flecainide","367","ng/mL","367",367,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-036",3,"FCN","Flecainide","367","ng/mL","367",367,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-036",4,"FCN","Flecainide","416","ng/mL","416",416,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-036",5,"FCN","Flecainide","218","ng/mL","218",218,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-036",6,"FCN","Flecainide","78.7","ng/mL","78.7",78.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-036",7,"FCN","Flecainide","85.7","ng/mL","85.7",85.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-036",8,"FCN","Flecainide","102","ng/mL","102",102,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-036",9,"FCN","Flecainide","112","ng/mL","112",112,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-036",10,"FCN","Flecainide","107","ng/mL","107",107,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-036",11,"FCN","Flecainide","137","ng/mL","137",137,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-036",12,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-036",13,"FCN","Flecainide","90.3","ng/mL","90.3",90.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-036",14,"FCN","Flecainide","51.3","ng/mL","51.3",51.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-036",15,"FCN","Flecainide","16.9","ng/mL","16.9",16.9,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-038",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-038",2,"FCN","Flecainide","184","ng/mL","184",184,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-038",3,"FCN","Flecainide","180","ng/mL","180",180,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-038",4,"FCN","Flecainide","176","ng/mL","176",176,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-038",5,"FCN","Flecainide","151","ng/mL","151",151,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-038",6,"FCN","Flecainide","136","ng/mL","136",136,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-038",7,"FCN","Flecainide","91.6","ng/mL","91.6",91.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-038",8,"FCN","Flecainide","111","ng/mL","111",111,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-038",9,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-038",10,"FCN","Flecainide","120","ng/mL","120",120,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-038",11,"FCN","Flecainide","116","ng/mL","116",116,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-038",12,"FCN","Flecainide","116","ng/mL","116",116,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-038",13,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-038",14,"FCN","Flecainide","105","ng/mL","105",105,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-038",15,"FCN","Flecainide","65","ng/mL","65",65,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-038",16,"FCN","Flecainide","35.7","ng/mL","35.7",35.7,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-048",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-048",2,"FCN","Flecainide","208","ng/mL","208",208,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-048",3,"FCN","Flecainide","273","ng/mL","273",273,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-048",4,"FCN","Flecainide","121","ng/mL","121",121,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-048",5,"FCN","Flecainide","118","ng/mL","118",118,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-048",6,"FCN","Flecainide","117","ng/mL","117",117,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-048",7,"FCN","Flecainide","94.8","ng/mL","94.8",94.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-048",8,"FCN","Flecainide","97.7","ng/mL","97.7",97.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-048",9,"FCN","Flecainide","68.5","ng/mL","68.5",68.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-048",10,"FCN","Flecainide","82.8","ng/mL","82.8",82.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-048",11,"FCN","Flecainide","86.9","ng/mL","86.9",86.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-048",12,"FCN","Flecainide","73.1","ng/mL","73.1",73.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-048",13,"FCN","Flecainide","75.2","ng/mL","75.2",75.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-048",14,"FCN","Flecainide","68.5","ng/mL","68.5",68.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-048",15,"FCN","Flecainide","45.8","ng/mL","45.8",45.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-048",16,"FCN","Flecainide","24.7","ng/mL","24.7",24.7,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-053",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-053",2,"FCN","Flecainide","158","ng/mL","158",158,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-053",3,"FCN","Flecainide","147","ng/mL","147",147,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-053",4,"FCN","Flecainide","211","ng/mL","211",211,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-053",5,"FCN","Flecainide","200","ng/mL","200",200,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-053",6,"FCN","Flecainide","121","ng/mL","121",121,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-053",7,"FCN","Flecainide","94.1","ng/mL","94.1",94.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-053",8,"FCN","Flecainide","77.2","ng/mL","77.2",77.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-053",9,"FCN","Flecainide","82.4","ng/mL","82.4",82.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-053",10,"FCN","Flecainide","113","ng/mL","113",113,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-053",11,"FCN","Flecainide","125","ng/mL","125",125,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-053",12,"FCN","Flecainide","125","ng/mL","125",125,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-053",13,"FCN","Flecainide","114","ng/mL","114",114,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-053",14,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-053",15,"FCN","Flecainide","83.7","ng/mL","83.7",83.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-053",16,"FCN","Flecainide","44.4","ng/mL","44.4",44.4,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-061",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-061",2,"FCN","Flecainide","496","ng/mL","496",496,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-061",3,"FCN","Flecainide","623","ng/mL","623",623,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-061",4,"FCN","Flecainide","498","ng/mL","498",498,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-061",5,"FCN","Flecainide","239","ng/mL","239",239,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-061",6,"FCN","Flecainide","189","ng/mL","189",189,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-061",7,"FCN","Flecainide","151","ng/mL","151",151,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-061",8,"FCN","Flecainide","120","ng/mL","120",120,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-061",9,"FCN","Flecainide","127","ng/mL","127",127,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-061",10,"FCN","Flecainide","120","ng/mL","120",120,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-061",11,"FCN","Flecainide","110","ng/mL","110",110,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-061",12,"FCN","Flecainide","92.5","ng/mL","92.5",92.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-061",13,"FCN","Flecainide","80.9","ng/mL","80.9",80.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-061",14,"FCN","Flecainide","51.7","ng/mL","51.7",51.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-061",15,"FCN","Flecainide","22.1","ng/mL","22.1",22.1,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-063",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-063",2,"FCN","Flecainide","748","ng/mL","748",748,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-063",3,"FCN","Flecainide","920","ng/mL","920",920,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-063",4,"FCN","Flecainide","515","ng/mL","515",515,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-063",5,"FCN","Flecainide","378","ng/mL","378",378,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-063",6,"FCN","Flecainide","231","ng/mL","231",231,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-063",7,"FCN","Flecainide","144","ng/mL","144",144,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-063",8,"FCN","Flecainide","133","ng/mL","133",133,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-063",9,"FCN","Flecainide","237","ng/mL","237",237,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-063",10,"FCN","Flecainide","193","ng/mL","193",193,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-063",11,"FCN","Flecainide","210","ng/mL","210",210,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-063",12,"FCN","Flecainide","186","ng/mL","186",186,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-063",13,"FCN","Flecainide","179","ng/mL","179",179,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-063",14,"FCN","Flecainide","153","ng/mL","153",153,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-063",15,"FCN","Flecainide","101","ng/mL","101",101,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-063",16,"FCN","Flecainide","43.1","ng/mL","43.1",43.1,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-064",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-064",2,"FCN","Flecainide","84.8","ng/mL","84.8",84.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-064",3,"FCN","Flecainide","159","ng/mL","159",159,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-064",4,"FCN","Flecainide","224","ng/mL","224",224,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-064",5,"FCN","Flecainide","166","ng/mL","166",166,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-064",6,"FCN","Flecainide","143","ng/mL","143",143,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-064",7,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-064",8,"FCN","Flecainide","144","ng/mL","144",144,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-064",9,"FCN","Flecainide","171","ng/mL","171",171,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-064",10,"FCN","Flecainide","178","ng/mL","178",178,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-064",11,"FCN","Flecainide","154","ng/mL","154",154,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-064",12,"FCN","Flecainide","140","ng/mL","140",140,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-064",13,"FCN","Flecainide","134","ng/mL","134",134,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-064",14,"FCN","Flecainide","130","ng/mL","130",130,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-064",15,"FCN","Flecainide","82.5","ng/mL","82.5",82.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-064",16,"FCN","Flecainide","35.7","ng/mL","35.7",35.7,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-068",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-068",2,"FCN","Flecainide","119","ng/mL","119",119,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-068",3,"FCN","Flecainide","212","ng/mL","212",212,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-068",4,"FCN","Flecainide","215","ng/mL","215",215,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-068",5,"FCN","Flecainide","215","ng/mL","215",215,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-068",6,"FCN","Flecainide","199","ng/mL","199",199,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-068",7,"FCN","Flecainide","185","ng/mL","185",185,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-068",8,"FCN","Flecainide","183","ng/mL","183",183,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-068",9,"FCN","Flecainide","134","ng/mL","134",134,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-068",10,"FCN","Flecainide","140","ng/mL","140",140,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-068",11,"FCN","Flecainide","131","ng/mL","131",131,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-068",12,"FCN","Flecainide","144","ng/mL","144",144,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-068",13,"FCN","Flecainide","101","ng/mL","101",101,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-068",14,"FCN","Flecainide","99.9","ng/mL","99.9",99.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-068",15,"FCN","Flecainide","58.8","ng/mL","58.8",58.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-068",16,"FCN","Flecainide","23.4","ng/mL","23.4",23.4,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-083",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-083",2,"FCN","Flecainide","524","ng/mL","524",524,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-083",3,"FCN","Flecainide","517","ng/mL","517",517,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-083",4,"FCN","Flecainide","473","ng/mL","473",473,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-083",5,"FCN","Flecainide","309","ng/mL","309",309,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-083",6,"FCN","Flecainide","271","ng/mL","271",271,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-083",7,"FCN","Flecainide","165","ng/mL","165",165,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-083",8,"FCN","Flecainide","139","ng/mL","139",139,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-083",9,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-083",10,"FCN","Flecainide","113","ng/mL","113",113,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-083",11,"FCN","Flecainide","110","ng/mL","110",110,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-083",12,"FCN","Flecainide","105","ng/mL","105",105,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-083",13,"FCN","Flecainide","89.7","ng/mL","89.7",89.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-083",14,"FCN","Flecainide","78.9","ng/mL","78.9",78.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-083",15,"FCN","Flecainide","45.2","ng/mL","45.2",45.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-083",16,"FCN","Flecainide","25.4","ng/mL","25.4",25.4,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-087",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-087",2,"FCN","Flecainide","117","ng/mL","117",117,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-087",3,"FCN","Flecainide","196","ng/mL","196",196,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-087",4,"FCN","Flecainide","214","ng/mL","214",214,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-087",5,"FCN","Flecainide","166","ng/mL","166",166,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-087",6,"FCN","Flecainide","179","ng/mL","179",179,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-087",7,"FCN","Flecainide","214","ng/mL","214",214,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-087",8,"FCN","Flecainide","199","ng/mL","199",199,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-087",9,"FCN","Flecainide","188","ng/mL","188",188,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-087",10,"FCN","Flecainide","180","ng/mL","180",180,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-087",11,"FCN","Flecainide","178","ng/mL","178",178,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-087",12,"FCN","Flecainide","204","ng/mL","204",204,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-087",13,"FCN","Flecainide","196","ng/mL","196",196,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-087",14,"FCN","Flecainide","182","ng/mL","182",182,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-087",15,"FCN","Flecainide","132","ng/mL","132",132,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-087",16,"FCN","Flecainide","69.4","ng/mL","69.4",69.4,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-099",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-099",2,"FCN","Flecainide","63.2","ng/mL","63.2",63.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-099",3,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-099",4,"FCN","Flecainide","113","ng/mL","113",113,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-099",5,"FCN","Flecainide","125","ng/mL","125",125,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-099",6,"FCN","Flecainide","116","ng/mL","116",116,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-099",7,"FCN","Flecainide","97.3","ng/mL","97.3",97.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-099",8,"FCN","Flecainide","76.9","ng/mL","76.9",76.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-099",9,"FCN","Flecainide","78.1","ng/mL","78.1",78.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-099",10,"FCN","Flecainide","98.6","ng/mL","98.6",98.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-099",11,"FCN","Flecainide","99","ng/mL","99",99,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-099",12,"FCN","Flecainide","106","ng/mL","106",106,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-099",13,"FCN","Flecainide","93.5","ng/mL","93.5",93.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-099",14,"FCN","Flecainide","94.7","ng/mL","94.7",94.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-099",15,"FCN","Flecainide","63.1","ng/mL","63.1",63.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-099",16,"FCN","Flecainide","23.8","ng/mL","23.8",23.8,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-107",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-107",2,"FCN","Flecainide","121","ng/mL","121",121,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-107",3,"FCN","Flecainide","187","ng/mL","187",187,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-107",4,"FCN","Flecainide","222","ng/mL","222",222,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-107",5,"FCN","Flecainide","285","ng/mL","285",285,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-107",6,"FCN","Flecainide","353","ng/mL","353",353,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-107",7,"FCN","Flecainide","216","ng/mL","216",216,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-107",8,"FCN","Flecainide","194","ng/mL","194",194,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-107",9,"FCN","Flecainide","140","ng/mL","140",140,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-107",10,"FCN","Flecainide","148","ng/mL","148",148,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-107",11,"FCN","Flecainide","119","ng/mL","119",119,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-107",12,"FCN","Flecainide","142","ng/mL","142",142,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-107",13,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-107",14,"FCN","Flecainide","94","ng/mL","94",94,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-107",15,"FCN","Flecainide","62","ng/mL","62",62,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-107",16,"FCN","Flecainide","26.9","ng/mL","26.9",26.9,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-115",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-115",2,"FCN","Flecainide","768","ng/mL","768",768,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose 2",-19
+"FLE-016","PC","FLE-016-002-115",3,"FCN","Flecainide","881","ng/mL","881",881,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-115",4,"FCN","Flecainide","963","ng/mL","963",963,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-115",5,"FCN","Flecainide","444","ng/mL","444",444,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-115",6,"FCN","Flecainide","318","ng/mL","318",318,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-115",7,"FCN","Flecainide","246","ng/mL","246",246,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-115",8,"FCN","Flecainide","195","ng/mL","195",195,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-115",9,"FCN","Flecainide","198","ng/mL","198",198,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-115",10,"FCN","Flecainide","144","ng/mL","144",144,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-115",11,"FCN","Flecainide","146","ng/mL","146",146,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-115",12,"FCN","Flecainide","131","ng/mL","131",131,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-115",13,"FCN","Flecainide","98.1","ng/mL","98.1",98.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-115",14,"FCN","Flecainide","87.7","ng/mL","87.7",87.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-115",15,"FCN","Flecainide","55.9","ng/mL","55.9",55.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-115",16,"FCN","Flecainide","27.3","ng/mL","27.3",27.3,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-119",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-119",2,"FCN","Flecainide","435","ng/mL","435",435,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-119",3,"FCN","Flecainide","592","ng/mL","592",592,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-119",4,"FCN","Flecainide","317","ng/mL","317",317,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-119",5,"FCN","Flecainide","276","ng/mL","276",276,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-119",6,"FCN","Flecainide","266","ng/mL","266",266,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-119",7,"FCN","Flecainide","245","ng/mL","245",245,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-119",8,"FCN","Flecainide","173","ng/mL","173",173,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-119",9,"FCN","Flecainide","151","ng/mL","151",151,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-119",10,"FCN","Flecainide","129","ng/mL","129",129,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-119",11,"FCN","Flecainide","127","ng/mL","127",127,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-119",12,"FCN","Flecainide","132","ng/mL","132",132,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-119",13,"FCN","Flecainide","114","ng/mL","114",114,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-119",14,"FCN","Flecainide","109","ng/mL","109",109,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-119",15,"FCN","Flecainide","69.9","ng/mL","69.9",69.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-119",16,"FCN","Flecainide","38.2","ng/mL","38.2",38.2,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-122",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-122",2,"FCN","Flecainide","422","ng/mL","422",422,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose 2",-19
+"FLE-016","PC","FLE-016-002-122",3,"FCN","Flecainide","200","ng/mL","200",200,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-122",4,"FCN","Flecainide","176","ng/mL","176",176,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-122",5,"FCN","Flecainide","163","ng/mL","163",163,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-122",6,"FCN","Flecainide","142","ng/mL","142",142,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-122",7,"FCN","Flecainide","102","ng/mL","102",102,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-122",8,"FCN","Flecainide","99.1","ng/mL","99.1",99.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-122",9,"FCN","Flecainide","64.9","ng/mL","64.9",64.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-122",10,"FCN","Flecainide","86.3","ng/mL","86.3",86.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-122",11,"FCN","Flecainide","83","ng/mL","83",83,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-122",12,"FCN","Flecainide","91.1","ng/mL","91.1",91.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-122",13,"FCN","Flecainide","77.2","ng/mL","77.2",77.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-122",14,"FCN","Flecainide","72.9","ng/mL","72.9",72.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-122",15,"FCN","Flecainide","50.7","ng/mL","50.7",50.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-122",16,"FCN","Flecainide","22.7","ng/mL","22.7",22.7,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-155",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-155",2,"FCN","Flecainide","21","ng/mL","21",21,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-155",3,"FCN","Flecainide","335","ng/mL","335",335,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-155",4,"FCN","Flecainide","414","ng/mL","414",414,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-155",5,"FCN","Flecainide","334","ng/mL","334",334,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-155",6,"FCN","Flecainide","247","ng/mL","247",247,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-155",7,"FCN","Flecainide","160","ng/mL","160",160,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-155",8,"FCN","Flecainide","148","ng/mL","148",148,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-155",9,"FCN","Flecainide","146","ng/mL","146",146,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-155",10,"FCN","Flecainide","130","ng/mL","130",130,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-155",11,"FCN","Flecainide","130","ng/mL","130",130,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-155",12,"FCN","Flecainide","118","ng/mL","118",118,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-155",13,"FCN","Flecainide","114","ng/mL","114",114,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-155",14,"FCN","Flecainide","98","ng/mL","98",98,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-155",15,"FCN","Flecainide","53.4","ng/mL","53.4",53.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-155",16,"FCN","Flecainide","19.6","ng/mL","19.6",19.6,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-156",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-156",2,"FCN","Flecainide","109","ng/mL","109",109,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-156",3,"FCN","Flecainide","183","ng/mL","183",183,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-156",4,"FCN","Flecainide","139","ng/mL","139",139,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-156",5,"FCN","Flecainide","159","ng/mL","159",159,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-156",6,"FCN","Flecainide","151","ng/mL","151",151,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-156",7,"FCN","Flecainide","116","ng/mL","116",116,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-156",8,"FCN","Flecainide","111","ng/mL","111",111,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-156",9,"FCN","Flecainide","137","ng/mL","137",137,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-156",10,"FCN","Flecainide","122","ng/mL","122",122,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-156",11,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-156",12,"FCN","Flecainide","129","ng/mL","129",129,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-156",13,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-156",14,"FCN","Flecainide","114","ng/mL","114",114,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-156",15,"FCN","Flecainide","97.2","ng/mL","97.2",97.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-156",16,"FCN","Flecainide","63.8","ng/mL","63.8",63.8,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-165",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-165",2,"FCN","Flecainide","102","ng/mL","102",102,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-165",3,"FCN","Flecainide","105","ng/mL","105",105,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-165",4,"FCN","Flecainide","144","ng/mL","144",144,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-165",5,"FCN","Flecainide","116","ng/mL","116",116,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-165",6,"FCN","Flecainide","68.3","ng/mL","68.3",68.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-165",7,"FCN","Flecainide","43","ng/mL","43",43,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-165",8,"FCN","Flecainide","54.5","ng/mL","54.5",54.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-165",9,"FCN","Flecainide","35.3","ng/mL","35.3",35.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-165",10,"FCN","Flecainide","39","ng/mL","39",39,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-165",11,"FCN","Flecainide","43","ng/mL","43",43,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-165",12,"FCN","Flecainide","39.8","ng/mL","39.8",39.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-165",13,"FCN","Flecainide","40.7","ng/mL","40.7",40.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-165",14,"FCN","Flecainide","35","ng/mL","35",35,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-165",15,"FCN","Flecainide","27.6","ng/mL","27.6",27.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-165",16,"FCN","Flecainide","18.6","ng/mL","18.6",18.6,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-177",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-177",2,"FCN","Flecainide","263","ng/mL","263",263,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-177",3,"FCN","Flecainide","667","ng/mL","667",667,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-177",4,"FCN","Flecainide","713","ng/mL","713",713,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-177",5,"FCN","Flecainide","421","ng/mL","421",421,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-177",6,"FCN","Flecainide","338","ng/mL","338",338,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-177",7,"FCN","Flecainide","241","ng/mL","241",241,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-177",8,"FCN","Flecainide","234","ng/mL","234",234,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-177",9,"FCN","Flecainide","224","ng/mL","224",224,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-177",10,"FCN","Flecainide","224","ng/mL","224",224,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-177",11,"FCN","Flecainide","178","ng/mL","178",178,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-177",12,"FCN","Flecainide","177","ng/mL","177",177,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-177",13,"FCN","Flecainide","133","ng/mL","133",133,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-177",14,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-177",15,"FCN","Flecainide","78.6","ng/mL","78.6",78.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-177",16,"FCN","Flecainide","43.4","ng/mL","43.4",43.4,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-185",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-185",2,"FCN","Flecainide","240","ng/mL","240",240,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-185",3,"FCN","Flecainide","235","ng/mL","235",235,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-185",4,"FCN","Flecainide","282","ng/mL","282",282,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-185",5,"FCN","Flecainide","205","ng/mL","205",205,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-185",6,"FCN","Flecainide","180","ng/mL","180",180,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-185",7,"FCN","Flecainide","173","ng/mL","173",173,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-185",8,"FCN","Flecainide","138","ng/mL","138",138,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-185",9,"FCN","Flecainide","171","ng/mL","171",171,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-185",10,"FCN","Flecainide","166","ng/mL","166",166,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-185",11,"FCN","Flecainide","178","ng/mL","178",178,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-185",12,"FCN","Flecainide","154","ng/mL","154",154,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-185",13,"FCN","Flecainide","121","ng/mL","121",121,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-185",14,"FCN","Flecainide","87.2","ng/mL","87.2",87.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-185",15,"FCN","Flecainide","37.2","ng/mL","37.2",37.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-185",16,"FCN","Flecainide","32.8","ng/mL","32.8",32.8,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-191",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-191",2,"FCN","Flecainide","119","ng/mL","119",119,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-191",3,"FCN","Flecainide","168","ng/mL","168",168,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-191",4,"FCN","Flecainide","153","ng/mL","153",153,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-191",5,"FCN","Flecainide","170","ng/mL","170",170,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-191",6,"FCN","Flecainide","162","ng/mL","162",162,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-191",7,"FCN","Flecainide","119","ng/mL","119",119,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-191",8,"FCN","Flecainide","112","ng/mL","112",112,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-191",9,"FCN","Flecainide","140","ng/mL","140",140,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-191",10,"FCN","Flecainide","164","ng/mL","164",164,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-191",11,"FCN","Flecainide","128","ng/mL","128",128,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-191",12,"FCN","Flecainide","168","ng/mL","168",168,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-191",13,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-191",14,"FCN","Flecainide","104","ng/mL","104",104,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-191",15,"FCN","Flecainide","59.1","ng/mL","59.1",59.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-191",16,"FCN","Flecainide","30","ng/mL","30",30,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-193",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-193",2,"FCN","Flecainide","282","ng/mL","282",282,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-193",3,"FCN","Flecainide","102","ng/mL","102",102,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-193",4,"FCN","Flecainide","109","ng/mL","109",109,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-193",5,"FCN","Flecainide","106","ng/mL","106",106,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-193",6,"FCN","Flecainide","98.6","ng/mL","98.6",98.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-193",7,"FCN","Flecainide","85.6","ng/mL","85.6",85.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-193",8,"FCN","Flecainide","71.1","ng/mL","71.1",71.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-193",9,"FCN","Flecainide","67.7","ng/mL","67.7",67.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-193",10,"FCN","Flecainide","62.7","ng/mL","62.7",62.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-193",11,"FCN","Flecainide","60.9","ng/mL","60.9",60.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-193",12,"FCN","Flecainide","57.2","ng/mL","57.2",57.2,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-193",13,"FCN","Flecainide","46.3","ng/mL","46.3",46.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-193",14,"FCN","Flecainide","34.7","ng/mL","34.7",34.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-193",15,"FCN","Flecainide","20.6","ng/mL","20.6",20.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-193",16,"FCN","Flecainide","7.14","ng/mL","7.14",7.14,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-196",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-196",2,"FCN","Flecainide","91.5","ng/mL","91.5",91.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-196",3,"FCN","Flecainide","89.7","ng/mL","89.7",89.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-196",4,"FCN","Flecainide","106","ng/mL","106",106,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-196",5,"FCN","Flecainide","94.5","ng/mL","94.5",94.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-196",6,"FCN","Flecainide","75.5","ng/mL","75.5",75.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-196",7,"FCN","Flecainide","63.7","ng/mL","63.7",63.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-196",8,"FCN","Flecainide","53.7","ng/mL","53.7",53.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-196",9,"FCN","Flecainide","43.9","ng/mL","43.9",43.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-196",10,"FCN","Flecainide","66.9","ng/mL","66.9",66.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-196",11,"FCN","Flecainide","68","ng/mL","68",68,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-196",12,"FCN","Flecainide","69.6","ng/mL","69.6",69.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-196",13,"FCN","Flecainide","71.6","ng/mL","71.6",71.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-196",14,"FCN","Flecainide","73.7","ng/mL","73.7",73.7,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-196",15,"FCN","Flecainide","49.4","ng/mL","49.4",49.4,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-196",16,"FCN","Flecainide","29","ng/mL","29",29,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-211",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-211",2,"FCN","Flecainide","136","ng/mL","136",136,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-211",3,"FCN","Flecainide","224","ng/mL","224",224,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-211",4,"FCN","Flecainide","203","ng/mL","203",203,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-211",5,"FCN","Flecainide","181","ng/mL","181",181,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-211",6,"FCN","Flecainide","163","ng/mL","163",163,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-211",7,"FCN","Flecainide","132","ng/mL","132",132,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-211",8,"FCN","Flecainide","113","ng/mL","113",113,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-211",9,"FCN","Flecainide","133","ng/mL","133",133,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-211",10,"FCN","Flecainide","149","ng/mL","149",149,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-211",11,"FCN","Flecainide","135","ng/mL","135",135,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-211",12,"FCN","Flecainide","129","ng/mL","129",129,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-211",13,"FCN","Flecainide","117","ng/mL","117",117,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-211",14,"FCN","Flecainide","127","ng/mL","127",127,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-211",15,"FCN","Flecainide","77.5","ng/mL","77.5",77.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-211",16,"FCN","Flecainide","44.6","ng/mL","44.6",44.6,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-213",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-213",2,"FCN","Flecainide","393","ng/mL","393",393,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-213",3,"FCN","Flecainide","200","ng/mL","200",200,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-213",4,"FCN","Flecainide","154","ng/mL","154",154,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-213",5,"FCN","Flecainide","143","ng/mL","143",143,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-213",6,"FCN","Flecainide","200","ng/mL","200",200,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-213",7,"FCN","Flecainide","141","ng/mL","141",141,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-213",8,"FCN","Flecainide","172","ng/mL","172",172,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-213",9,"FCN","Flecainide","147","ng/mL","147",147,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-213",10,"FCN","Flecainide","163","ng/mL","163",163,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-213",11,"FCN","Flecainide","159","ng/mL","159",159,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-213",12,"FCN","Flecainide","142","ng/mL","142",142,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-213",13,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-213",14,"FCN","Flecainide","92.6","ng/mL","92.6",92.6,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-213",15,"FCN","Flecainide","84.9","ng/mL","84.9",84.9,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-213",16,"FCN","Flecainide","59.9","ng/mL","59.9",59.9,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-228",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-228",2,"FCN","Flecainide","84.3","ng/mL","84.3",84.3,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"Break",-18
+"FLE-016","PC","FLE-016-002-228",3,"FCN","Flecainide","126","ng/mL","126",126,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"EOD",0
+"FLE-016","PC","FLE-016-002-228",4,"FCN","Flecainide","127","ng/mL","127",127,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"1 min",1
+"FLE-016","PC","FLE-016-002-228",5,"FCN","Flecainide","133","ng/mL","133",133,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"3 min",3
+"FLE-016","PC","FLE-016-002-228",6,"FCN","Flecainide","128","ng/mL","128",128,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"5 min",5
+"FLE-016","PC","FLE-016-002-228",7,"FCN","Flecainide","98.8","ng/mL","98.8",98.8,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"10 min",10
+"FLE-016","PC","FLE-016-002-228",8,"FCN","Flecainide","93.1","ng/mL","93.1",93.1,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"15 min",15
+"FLE-016","PC","FLE-016-002-228",9,"FCN","Flecainide","130","ng/mL","130",130,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"30 min",30
+"FLE-016","PC","FLE-016-002-228",10,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"60 min",60
+"FLE-016","PC","FLE-016-002-228",11,"FCN","Flecainide","143","ng/mL","143",143,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"90 min",90
+"FLE-016","PC","FLE-016-002-228",12,"FCN","Flecainide","144","ng/mL","144",144,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"120 min",120
+"FLE-016","PC","FLE-016-002-228",13,"FCN","Flecainide","114","ng/mL","114",114,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"240 min",240
+"FLE-016","PC","FLE-016-002-228",14,"FCN","Flecainide","110","ng/mL","110",110,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"360 min",360
+"FLE-016","PC","FLE-016-002-228",15,"FCN","Flecainide","78.5","ng/mL","78.5",78.5,"ng/mL","Plasma",0.5,500,1,"Day 1","TREATMENT",1,"720 min",720
+"FLE-016","PC","FLE-016-002-228",16,"FCN","Flecainide","32.7","ng/mL","32.7",32.7,"ng/mL","Plasma",0.5,500,2,"Day 2","TREATMENT",2,"1440 min",1440
+"FLE-016","PC","FLE-016-002-251",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-251",2,"FCN","Flecainide","57.6","ng/mL","57.6",57.6,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-251",3,"FCN","Flecainide","115","ng/mL","115",115,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-251",4,"FCN","Flecainide","85.5","ng/mL","85.5",85.5,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-251",5,"FCN","Flecainide","161","ng/mL","161",161,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-251",6,"FCN","Flecainide","134","ng/mL","134",134,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-251",7,"FCN","Flecainide","171","ng/mL","171",171,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-251",8,"FCN","Flecainide","126","ng/mL","126",126,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-251",9,"FCN","Flecainide","232","ng/mL","232",232,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-251",10,"FCN","Flecainide","118","ng/mL","118",118,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-251",11,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-251",12,"FCN","Flecainide","94.8","ng/mL","94.8",94.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-251",13,"FCN","Flecainide","129","ng/mL","129",129,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-251",14,"FCN","Flecainide","96.7","ng/mL","96.7",96.7,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-251",15,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-251",16,"FCN","Flecainide","230","ng/mL","230",230,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-251",17,"FCN","Flecainide","153","ng/mL","153",153,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-251",18,"FCN","Flecainide","190","ng/mL","190",190,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-251",19,"FCN","Flecainide","193","ng/mL","193",193,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-251",20,"FCN","Flecainide","171","ng/mL","171",171,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-251",21,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-251",22,"FCN","Flecainide","117","ng/mL","117",117,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-251",23,"FCN","Flecainide","63.8","ng/mL","63.8",63.8,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-258",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-258",2,"FCN","Flecainide","87.9","ng/mL","87.9",87.9,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-258",3,"FCN","Flecainide","132","ng/mL","132",132,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-258",4,"FCN","Flecainide","69.9","ng/mL","69.9",69.9,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-258",5,"FCN","Flecainide","148","ng/mL","148",148,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-258",6,"FCN","Flecainide","130","ng/mL","130",130,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-258",7,"FCN","Flecainide","151","ng/mL","151",151,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-258",8,"FCN","Flecainide","121","ng/mL","121",121,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-258",9,"FCN","Flecainide","148","ng/mL","148",148,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-258",10,"FCN","Flecainide","102","ng/mL","102",102,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-258",11,"FCN","Flecainide","130","ng/mL","130",130,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-258",12,"FCN","Flecainide","84.9","ng/mL","84.9",84.9,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-258",13,"FCN","Flecainide","111","ng/mL","111",111,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-258",14,"FCN","Flecainide","90.9","ng/mL","90.9",90.9,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-258",15,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-258",16,"FCN","Flecainide","101","ng/mL","101",101,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-258",17,"FCN","Flecainide","136","ng/mL","136",136,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-258",18,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-258",19,"FCN","Flecainide","169","ng/mL","169",169,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-258",20,"FCN","Flecainide","178","ng/mL","178",178,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-258",21,"FCN","Flecainide","195","ng/mL","195",195,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-258",22,"FCN","Flecainide","133","ng/mL","133",133,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-258",23,"FCN","Flecainide","56.5","ng/mL","56.5",56.5,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-262",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-262",2,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-262",3,"FCN","Flecainide","178","ng/mL","178",178,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-262",4,"FCN","Flecainide","135","ng/mL","135",135,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-262",5,"FCN","Flecainide","231","ng/mL","231",231,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-262",6,"FCN","Flecainide","164","ng/mL","164",164,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-262",7,"FCN","Flecainide","226","ng/mL","226",226,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-262",8,"FCN","Flecainide","144","ng/mL","144",144,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-262",9,"FCN","Flecainide","214","ng/mL","214",214,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-262",10,"FCN","Flecainide","141","ng/mL","141",141,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-262",11,"FCN","Flecainide","206","ng/mL","206",206,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-262",12,"FCN","Flecainide","150","ng/mL","150",150,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-262",13,"FCN","Flecainide","188","ng/mL","188",188,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-262",14,"FCN","Flecainide","125","ng/mL","125",125,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-262",15,"FCN","Flecainide","194","ng/mL","194",194,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-262",16,"FCN","Flecainide","246","ng/mL","246",246,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-262",17,"FCN","Flecainide","206","ng/mL","206",206,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-262",18,"FCN","Flecainide","192","ng/mL","192",192,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-262",19,"FCN","Flecainide","196","ng/mL","196",196,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-262",20,"FCN","Flecainide","161","ng/mL","161",161,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-262",21,"FCN","Flecainide","125","ng/mL","125",125,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-262",22,"FCN","Flecainide","82","ng/mL","82",82,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-262",23,"FCN","Flecainide","30.7","ng/mL","30.7",30.7,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-275",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-275",2,"FCN","Flecainide","80.8","ng/mL","80.8",80.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-275",3,"FCN","Flecainide","157","ng/mL","157",157,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-275",4,"FCN","Flecainide","72.7","ng/mL","72.7",72.7,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-275",5,"FCN","Flecainide","241","ng/mL","241",241,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-275",6,"FCN","Flecainide","169","ng/mL","169",169,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-275",7,"FCN","Flecainide","284","ng/mL","284",284,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-275",8,"FCN","Flecainide","138","ng/mL","138",138,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-275",9,"FCN","Flecainide","246","ng/mL","246",246,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-275",10,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-275",11,"FCN","Flecainide","212","ng/mL","212",212,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-275",12,"FCN","Flecainide","95.7","ng/mL","95.7",95.7,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-275",13,"FCN","Flecainide","136","ng/mL","136",136,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-275",14,"FCN","Flecainide","85.9","ng/mL","85.9",85.9,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-275",15,"FCN","Flecainide","131","ng/mL","131",131,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-275",16,"FCN","Flecainide","186","ng/mL","186",186,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-275",17,"FCN","Flecainide","200","ng/mL","200",200,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-275",18,"FCN","Flecainide","169","ng/mL","169",169,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-275",19,"FCN","Flecainide","167","ng/mL","167",167,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-275",20,"FCN","Flecainide","168","ng/mL","168",168,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-275",21,"FCN","Flecainide","154","ng/mL","154",154,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-275",22,"FCN","Flecainide","108","ng/mL","108",108,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-275",23,"FCN","Flecainide","65.7","ng/mL","65.7",65.7,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-280",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-280",2,"FCN","Flecainide","1040","ng/mL","1040",1040,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-280",3,"FCN","Flecainide","1050","ng/mL","1050",1050,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-280",4,"FCN","Flecainide","121","ng/mL","121",121,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-280",5,"FCN","Flecainide","769","ng/mL","769",769,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-280",6,"FCN","Flecainide","497","ng/mL","497",497,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-280",7,"FCN","Flecainide","513","ng/mL","513",513,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-280",8,"FCN","Flecainide","300","ng/mL","300",300,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-280",9,"FCN","Flecainide","332","ng/mL","332",332,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-280",10,"FCN","Flecainide","202","ng/mL","202",202,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-280",11,"FCN","Flecainide","266","ng/mL","266",266,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-280",12,"FCN","Flecainide","180","ng/mL","180",180,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-280",13,"FCN","Flecainide","247","ng/mL","247",247,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-280",14,"FCN","Flecainide","138","ng/mL","138",138,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-280",15,"FCN","Flecainide","245","ng/mL","245",245,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-280",16,"FCN","Flecainide","238","ng/mL","238",238,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-280",17,"FCN","Flecainide","198","ng/mL","198",198,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-280",18,"FCN","Flecainide","183","ng/mL","183",183,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-280",19,"FCN","Flecainide","191","ng/mL","191",191,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-280",20,"FCN","Flecainide","168","ng/mL","168",168,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-280",21,"FCN","Flecainide","141","ng/mL","141",141,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-280",22,"FCN","Flecainide","84.8","ng/mL","84.8",84.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-280",23,"FCN","Flecainide","40.3","ng/mL","40.3",40.3,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-289",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-289",2,"FCN","Flecainide","233","ng/mL","233",233,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-289",3,"FCN","Flecainide","267","ng/mL","267",267,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-289",4,"FCN","Flecainide","86.8","ng/mL","86.8",86.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-289",5,"FCN","Flecainide","176","ng/mL","176",176,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-289",6,"FCN","Flecainide","309","ng/mL","309",309,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-289",7,"FCN","Flecainide","219","ng/mL","219",219,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-289",8,"FCN","Flecainide","162","ng/mL","162",162,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-289",9,"FCN","Flecainide","190","ng/mL","190",190,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-289",10,"FCN","Flecainide","90.8","ng/mL","90.8",90.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-289",11,"FCN","Flecainide","150","ng/mL","150",150,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-289",12,"FCN","Flecainide","80.1","ng/mL","80.1",80.1,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-289",13,"FCN","Flecainide","154","ng/mL","154",154,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-289",14,"FCN","Flecainide","116","ng/mL","116",116,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-289",15,"FCN","Flecainide","139","ng/mL","139",139,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-289",16,"FCN","Flecainide","157","ng/mL","157",157,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-289",17,"FCN","Flecainide","146","ng/mL","146",146,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-289",18,"FCN","Flecainide","140","ng/mL","140",140,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-289",19,"FCN","Flecainide","136","ng/mL","136",136,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-289",20,"FCN","Flecainide","111","ng/mL","111",111,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-289",21,"FCN","Flecainide","93.4","ng/mL","93.4",93.4,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-289",22,"FCN","Flecainide","45.6","ng/mL","45.6",45.6,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-289",23,"FCN","Flecainide","30.2","ng/mL","30.2",30.2,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-292",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-292",2,"FCN","Flecainide","148","ng/mL","148",148,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-292",3,"FCN","Flecainide","223","ng/mL","223",223,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-292",4,"FCN","Flecainide","75.8","ng/mL","75.8",75.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-292",5,"FCN","Flecainide","168","ng/mL","168",168,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-292",6,"FCN","Flecainide","232","ng/mL","232",232,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-292",7,"FCN","Flecainide","259","ng/mL","259",259,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-292",8,"FCN","Flecainide","168","ng/mL","168",168,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-292",9,"FCN","Flecainide","192","ng/mL","192",192,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-292",10,"FCN","Flecainide","154","ng/mL","154",154,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-292",11,"FCN","Flecainide","157","ng/mL","157",157,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-292",12,"FCN","Flecainide","96.7","ng/mL","96.7",96.7,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-292",13,"FCN","Flecainide","111","ng/mL","111",111,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-292",14,"FCN","Flecainide","81.5","ng/mL","81.5",81.5,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-292",15,"FCN","Flecainide","123","ng/mL","123",123,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-292",16,"FCN","Flecainide","107","ng/mL","107",107,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-292",17,"FCN","Flecainide","129","ng/mL","129",129,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-292",18,"FCN","Flecainide","125","ng/mL","125",125,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-292",19,"FCN","Flecainide","140","ng/mL","140",140,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-292",20,"FCN","Flecainide","129","ng/mL","129",129,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-292",21,"FCN","Flecainide","116","ng/mL","116",116,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-292",22,"FCN","Flecainide","81.2","ng/mL","81.2",81.2,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-292",23,"FCN","Flecainide","43.7","ng/mL","43.7",43.7,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-293",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-293",2,"FCN","Flecainide","217","ng/mL","217",217,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-293",3,"FCN","Flecainide","337","ng/mL","337",337,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-293",4,"FCN","Flecainide","68.2","ng/mL","68.2",68.2,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-293",5,"FCN","Flecainide","174","ng/mL","174",174,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-293",6,"FCN","Flecainide","286","ng/mL","286",286,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-293",7,"FCN","Flecainide","156","ng/mL","156",156,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-293",8,"FCN","Flecainide","178","ng/mL","178",178,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-293",9,"FCN","Flecainide","145","ng/mL","145",145,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-293",10,"FCN","Flecainide","154","ng/mL","154",154,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-293",11,"FCN","Flecainide","139","ng/mL","139",139,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-293",12,"FCN","Flecainide","111","ng/mL","111",111,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-293",13,"FCN","Flecainide","118","ng/mL","118",118,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-293",14,"FCN","Flecainide","83.5","ng/mL","83.5",83.5,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-293",15,"FCN","Flecainide","119","ng/mL","119",119,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-293",16,"FCN","Flecainide","136","ng/mL","136",136,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-293",17,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-293",18,"FCN","Flecainide","146","ng/mL","146",146,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-293",19,"FCN","Flecainide","156","ng/mL","156",156,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-293",20,"FCN","Flecainide","153","ng/mL","153",153,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-293",21,"FCN","Flecainide","138","ng/mL","138",138,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-293",22,"FCN","Flecainide","99.7","ng/mL","99.7",99.7,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-293",23,"FCN","Flecainide","64.7","ng/mL","64.7",64.7,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-295",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-295",2,"FCN","Flecainide","377","ng/mL","377",377,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-295",3,"FCN","Flecainide","553","ng/mL","553",553,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-295",4,"FCN","Flecainide","89.2","ng/mL","89.2",89.2,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-295",5,"FCN","Flecainide","221","ng/mL","221",221,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid booster 4 min",-5
+"FLE-016","PC","FLE-016-002-295",6,"FCN","Flecainide","517","ng/mL","517",517,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-295",7,"FCN","Flecainide","271","ng/mL","271",271,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-295",8,"FCN","Flecainide","355","ng/mL","355",355,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-295",9,"FCN","Flecainide","228","ng/mL","228",228,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-295",10,"FCN","Flecainide","244","ng/mL","244",244,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-295",11,"FCN","Flecainide","194","ng/mL","194",194,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-295",12,"FCN","Flecainide","181","ng/mL","181",181,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-295",13,"FCN","Flecainide","99.9","ng/mL","99.9",99.9,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-295",14,"FCN","Flecainide","168","ng/mL","168",168,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-295",15,"FCN","Flecainide","93.9","ng/mL","93.9",93.9,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-295",16,"FCN","Flecainide","197","ng/mL","197",197,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-295",17,"FCN","Flecainide","201","ng/mL","201",201,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-295",18,"FCN","Flecainide","195","ng/mL","195",195,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-295",19,"FCN","Flecainide","189","ng/mL","189",189,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-295",20,"FCN","Flecainide","186","ng/mL","186",186,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-295",21,"FCN","Flecainide","160","ng/mL","160",160,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-295",22,"FCN","Flecainide","146","ng/mL","146",146,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-295",23,"FCN","Flecainide","87.4","ng/mL","87.4",87.4,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-295",24,"FCN","Flecainide","48.3","ng/mL","48.3",48.3,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-309",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-309",2,"FCN","Flecainide","38.7","ng/mL","38.7",38.7,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-309",3,"FCN","Flecainide","80","ng/mL","80",80,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-309",4,"FCN","Flecainide","68.7","ng/mL","68.7",68.7,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-309",5,"FCN","Flecainide","237","ng/mL","237",237,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid booster 4 min",-5
+"FLE-016","PC","FLE-016-002-309",6,"FCN","Flecainide","328","ng/mL","328",328,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-309",7,"FCN","Flecainide","84.9","ng/mL","84.9",84.9,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-309",8,"FCN","Flecainide","374","ng/mL","374",374,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-309",9,"FCN","Flecainide","87.5","ng/mL","87.5",87.5,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-309",10,"FCN","Flecainide","252","ng/mL","252",252,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-309",11,"FCN","Flecainide","80.6","ng/mL","80.6",80.6,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-309",12,"FCN","Flecainide","213","ng/mL","213",213,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-309",13,"FCN","Flecainide","77.8","ng/mL","77.8",77.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-309",14,"FCN","Flecainide","134","ng/mL","134",134,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-309",15,"FCN","Flecainide","83.4","ng/mL","83.4",83.4,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-309",16,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-309",17,"FCN","Flecainide","191","ng/mL","191",191,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-309",18,"FCN","Flecainide","244","ng/mL","244",244,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-309",19,"FCN","Flecainide","235","ng/mL","235",235,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-309",20,"FCN","Flecainide","246","ng/mL","246",246,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-309",21,"FCN","Flecainide","240","ng/mL","240",240,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-309",22,"FCN","Flecainide","211","ng/mL","211",211,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-309",23,"FCN","Flecainide","130","ng/mL","130",130,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-309",24,"FCN","Flecainide","36.8","ng/mL","36.8",36.8,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-324",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-324",2,"FCN","Flecainide","96.2","ng/mL","96.2",96.2,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-324",3,"FCN","Flecainide","118","ng/mL","118",118,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-324",4,"FCN","Flecainide","226","ng/mL","226",226,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid booster 4 min",-5
+"FLE-016","PC","FLE-016-002-324",5,"FCN","Flecainide","237","ng/mL","237",237,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-324",6,"FCN","Flecainide","237","ng/mL","237",237,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-324",7,"FCN","Flecainide","250","ng/mL","250",250,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-324",8,"FCN","Flecainide","200","ng/mL","200",200,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-324",9,"FCN","Flecainide","234","ng/mL","234",234,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-324",10,"FCN","Flecainide","188","ng/mL","188",188,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-324",11,"FCN","Flecainide","233","ng/mL","233",233,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-324",12,"FCN","Flecainide","158","ng/mL","158",158,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-324",13,"FCN","Flecainide","221","ng/mL","221",221,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-324",14,"FCN","Flecainide","221","ng/mL","221",221,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-324",15,"FCN","Flecainide","274","ng/mL","274",274,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-324",16,"FCN","Flecainide","289","ng/mL","289",289,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-324",17,"FCN","Flecainide","307","ng/mL","307",307,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-324",18,"FCN","Flecainide","270","ng/mL","270",270,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-324",19,"FCN","Flecainide","252","ng/mL","252",252,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-324",20,"FCN","Flecainide","175","ng/mL","175",175,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-324",21,"FCN","Flecainide","101","ng/mL","101",101,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-330",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-330",2,"FCN","Flecainide","151","ng/mL","151",151,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-330",3,"FCN","Flecainide","184","ng/mL","184",184,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-330",4,"FCN","Flecainide","145","ng/mL","145",145,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-330",5,"FCN","Flecainide","456","ng/mL","456",456,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid booster 4 min",-5
+"FLE-016","PC","FLE-016-002-330",6,"FCN","Flecainide","648","ng/mL","648",648,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-330",7,"FCN","Flecainide","215","ng/mL","215",215,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-330",8,"FCN","Flecainide","597","ng/mL","597",597,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-330",9,"FCN","Flecainide","231","ng/mL","231",231,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-330",10,"FCN","Flecainide","520","ng/mL","520",520,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-330",11,"FCN","Flecainide","233","ng/mL","233",233,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-330",12,"FCN","Flecainide","459","ng/mL","459",459,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-330",13,"FCN","Flecainide","155","ng/mL","155",155,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-330",14,"FCN","Flecainide","406","ng/mL","406",406,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-330",15,"FCN","Flecainide","160","ng/mL","160",160,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-330",16,"FCN","Flecainide","393","ng/mL","393",393,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-330",17,"FCN","Flecainide","364","ng/mL","364",364,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-330",18,"FCN","Flecainide","389","ng/mL","389",389,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-330",19,"FCN","Flecainide","371","ng/mL","371",371,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-330",20,"FCN","Flecainide","382","ng/mL","382",382,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-330",21,"FCN","Flecainide","326","ng/mL","326",326,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-330",22,"FCN","Flecainide","274","ng/mL","274",274,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-330",23,"FCN","Flecainide","200","ng/mL","200",200,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-330",24,"FCN","Flecainide","97.8","ng/mL","97.8",97.8,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-343",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-343",2,"FCN","Flecainide","27.8","ng/mL","27.8",27.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-343",3,"FCN","Flecainide","45","ng/mL","45",45,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-343",4,"FCN","Flecainide","66.8","ng/mL","66.8",66.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-343",5,"FCN","Flecainide","92.4","ng/mL","92.4",92.4,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid booster 4 min",-5
+"FLE-016","PC","FLE-016-002-343",6,"FCN","Flecainide","134","ng/mL","134",134,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-343",7,"FCN","Flecainide","76.8","ng/mL","76.8",76.8,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-343",8,"FCN","Flecainide","121","ng/mL","121",121,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-343",9,"FCN","Flecainide","81.4","ng/mL","81.4",81.4,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-343",10,"FCN","Flecainide","203","ng/mL","203",203,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-343",11,"FCN","Flecainide","78.5","ng/mL","78.5",78.5,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-343",12,"FCN","Flecainide","169","ng/mL","169",169,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-343",13,"FCN","Flecainide","55.6","ng/mL","55.6",55.6,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-343",14,"FCN","Flecainide","126","ng/mL","126",126,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-343",15,"FCN","Flecainide","59.6","ng/mL","59.6",59.6,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-343",16,"FCN","Flecainide","153","ng/mL","153",153,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-343",17,"FCN","Flecainide","150","ng/mL","150",150,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-343",18,"FCN","Flecainide","230","ng/mL","230",230,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-343",19,"FCN","Flecainide","240","ng/mL","240",240,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-343",20,"FCN","Flecainide","256","ng/mL","256",256,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-343",21,"FCN","Flecainide","198","ng/mL","198",198,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-343",22,"FCN","Flecainide","188","ng/mL","188",188,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-343",23,"FCN","Flecainide","115","ng/mL","115",115,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-343",24,"FCN","Flecainide","48.7","ng/mL","48.7",48.7,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-357",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-357",2,"FCN","Flecainide","175","ng/mL","175",175,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-357",3,"FCN","Flecainide","286","ng/mL","286",286,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-357",4,"FCN","Flecainide","148","ng/mL","148",148,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-357",5,"FCN","Flecainide","539","ng/mL","539",539,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid booster 4 min",-5
+"FLE-016","PC","FLE-016-002-357",6,"FCN","Flecainide","727","ng/mL","727",727,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-357",7,"FCN","Flecainide","752","ng/mL","752",752,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-357",8,"FCN","Flecainide","164","ng/mL","164",164,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-357",9,"FCN","Flecainide","534","ng/mL","534",534,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-357",10,"FCN","Flecainide","156","ng/mL","156",156,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-357",11,"FCN","Flecainide","447","ng/mL","447",447,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-357",12,"FCN","Flecainide","163","ng/mL","163",163,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-357",13,"FCN","Flecainide","377","ng/mL","377",377,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-357",14,"FCN","Flecainide","172","ng/mL","172",172,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-357",15,"FCN","Flecainide","341","ng/mL","341",341,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-357",16,"FCN","Flecainide","362","ng/mL","362",362,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-357",17,"FCN","Flecainide","346","ng/mL","346",346,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-357",18,"FCN","Flecainide","344","ng/mL","344",344,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-357",19,"FCN","Flecainide","338","ng/mL","338",338,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-357",20,"FCN","Flecainide","231","ng/mL","231",231,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-357",21,"FCN","Flecainide","267","ng/mL","267",267,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-357",22,"FCN","Flecainide","180","ng/mL","180",180,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-357",23,"FCN","Flecainide","83","ng/mL","83",83,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
+"FLE-016","PC","FLE-016-002-373",1,"FCN","Flecainide","BLQ","ng/mL","0",0,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Predose",-60
+"FLE-016","PC","FLE-016-002-373",2,"FCN","Flecainide","49.7","ng/mL","49.7",49.7,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid Dose 1 4 min",-30
+"FLE-016","PC","FLE-016-002-373",3,"FCN","Flecainide","98.1","ng/mL","98.1",98.1,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOD",-25
+"FLE-016","PC","FLE-016-002-373",4,"FCN","Flecainide","57.5","ng/mL","57.5",57.5,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Pre booster",-10
+"FLE-016","PC","FLE-016-002-373",5,"FCN","Flecainide","126","ng/mL","126",126,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"Mid booster 4 min",-5
+"FLE-016","PC","FLE-016-002-373",6,"FCN","Flecainide","175","ng/mL","175",175,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"EOBD",0
+"FLE-016","PC","FLE-016-002-373",7,"FCN","Flecainide","99","ng/mL","99",99,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 1 min",1
+"FLE-016","PC","FLE-016-002-373",8,"FCN","Flecainide","153","ng/mL","153",153,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 1 min",1
+"FLE-016","PC","FLE-016-002-373",9,"FCN","Flecainide","79.2","ng/mL","79.2",79.2,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 3 min",3
+"FLE-016","PC","FLE-016-002-373",10,"FCN","Flecainide","166","ng/mL","166",166,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 3 min",3
+"FLE-016","PC","FLE-016-002-373",11,"FCN","Flecainide","90.3","ng/mL","90.3",90.3,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 5 min",5
+"FLE-016","PC","FLE-016-002-373",12,"FCN","Flecainide","162","ng/mL","162",162,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 5 min",5
+"FLE-016","PC","FLE-016-002-373",13,"FCN","Flecainide","70.2","ng/mL","70.2",70.2,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 10 min",10
+"FLE-016","PC","FLE-016-002-373",14,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 10 min",10
+"FLE-016","PC","FLE-016-002-373",15,"FCN","Flecainide","62.6","ng/mL","62.6",62.6,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"AP 15 min",15
+"FLE-016","PC","FLE-016-002-373",16,"FCN","Flecainide","152","ng/mL","152",152,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 15 min",15
+"FLE-016","PC","FLE-016-002-373",17,"FCN","Flecainide","265","ng/mL","265",265,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 30 min",30
+"FLE-016","PC","FLE-016-002-373",18,"FCN","Flecainide","210","ng/mL","210",210,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 60 min",60
+"FLE-016","PC","FLE-016-002-373",19,"FCN","Flecainide","233","ng/mL","233",233,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 90 min",90
+"FLE-016","PC","FLE-016-002-373",20,"FCN","Flecainide","178","ng/mL","178",178,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 2 hr",120
+"FLE-016","PC","FLE-016-002-373",21,"FCN","Flecainide","186","ng/mL","186",186,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 4 hr",240
+"FLE-016","PC","FLE-016-002-373",22,"FCN","Flecainide","168","ng/mL","168",168,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 6 hr",360
+"FLE-016","PC","FLE-016-002-373",23,"FCN","Flecainide","124","ng/mL","124",124,"ng/mL","Plasma",1,1000,1,"Day 1","TREATMENT",1,"PBD 12 hr",720
+"FLE-016","PC","FLE-016-002-373",24,"FCN","Flecainide","51.1","ng/mL","51.1",51.1,"ng/mL","Plasma",1,1000,2,"Day 2","TREATMENT",2,"PBD 24 hr",1440
